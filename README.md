@@ -1,5 +1,5 @@
 
-# Task 10 - ML Facial Recognition to Detect Mood and Suggest Songs Accordingly
+# ML Facial Recognition to Detect Mood and Suggest Songs Accordingly
 
 ## dataset - https://www.kaggle.com/datasets/msambare/fer2013
 
